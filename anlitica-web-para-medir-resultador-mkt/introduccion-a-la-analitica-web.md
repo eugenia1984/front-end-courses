@@ -1,6 +1,6 @@
 # PRESENTACION
 
-## Ficha técnica dle curso
+## Ficha técnica del curso
 
 El presente curso se compone del contenido y recursos didácticos de la acción formativa “Analítica web para medir resultados de marketing” incluida en FUNDAE con código COMM001PO en la familia profesional de Comercio y Marketing y dentro del Área Profesional de “Marketing y Relaciones públicas”.
 
@@ -14,8 +14,10 @@ El presente curso tiene como objetivo general **identificar las herramientas y v
 
 ---
 
-## Mapa conceptual dle curso
+## Mapa conceptual del curso
 
 ![image](https://github.com/user-attachments/assets/5511c3db-d3e2-4e69-8e98-1cd1329aff60)
 
 ---
+
+
