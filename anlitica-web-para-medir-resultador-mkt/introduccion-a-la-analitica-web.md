@@ -104,4 +104,15 @@ IMPORTANTE: Este aspecto es de los más importantes, sobre todo para grandes emp
 ---
 
 
+##  Pasos recomendados al iniciar la realización de una analítica web
+Empezaremos por Google Analytics, es difícil ponerse manos a la obra, pero cuando se consigue da unos resultados estupendos. Un bloguero alega lo siguiente en cuanto a excusas para no usarlo: “En primer lugar, no es urgente. Si no responde al correo electrónico de ese proveedor, sus productos no se enviarán. Si no paga sus impuestos a tiempo, deberá pagar una multa". Es por eso que Google Analytics se encuentra más en la categoría de sería bueno tener tiempo para muchos empresarios de comercio electrónico.
+
+La segunda razón es que parece bastante complejo, solo sabes que cuando finalmente te sientes a aprenderlo, será difícil. Por eso es más fácil seguir con lo que sabes y te gusta hacer.
+
+Actualmente, las grandes compañías están haciendo grandes inversiones en publicidad online mediante atractivas campañas y realizando muchos esfuerzos para generar contenido de calidad en las plataformas sociales. Por ello, es necesario saber qué contenidos y diseño prefiere nuestro público objetivo, qué sitios webs tienen mayor número de tráfico de nuestros clientes potenciales, conocer su comportamiento, qué contenidos de nuestro blog gustan más, qué páginas de mi sitio web son las más populares, cuáles son los enlaces externos, necesito instarla en los dispositivos móviles, funciona bien, qué tácticas de marketing son las que realmente me generan beneficios y el motivo de cuáles no….
+
+IMPORTANTE: La analítica web surge por la necesidad de medir el retorno que el marketing o la publicidad hacen en la web, entre otras funciones, como optimizar el número de seguidores, conseguir tráfico de calidad hacia la web, tomar decisiones basadas en datos y no en corazonadas o intuiciones. Se puede hacer lo que se denomina Agrupación de canales o descubrir si la web está muy posicionada u optimizada en actualizaciones.
+
+---
+
 
