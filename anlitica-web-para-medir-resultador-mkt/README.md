@@ -88,8 +88,12 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 5. Métricas complementarias a la tasa de conversión
 
-6. Primeros puntos a analizar respecto a nuestra web
+## [GLOSARIO](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/glosario.md)
 
-7. Algunas recomendaciones para mejorar la conversión
+---
+
+7. Primeros puntos a analizar respecto a nuestra web
+
+8. Algunas recomendaciones para mejorar la conversión
 
 ---
