@@ -77,5 +77,14 @@ Temas relacionados:
   
 ---
 
+## Método SMART
+
+Antes de empezar a mirar y apuntar la cantidad de visitas, pestañas o páginas visitadas, porcentaje de permanencia en la web o porcentaje de rebote… es necesario **tener un plan o estrategia con unos objetivos medibles marcados.** Tenemos que saber qué queremos conseguir con nuestra web.
 
 
+Definimos el **método SMART como** **unas pautas a seguir en analítica web para definir correctamente los objetivos que se están persiguiendo en nuestra Web**.
+
+L**a analítica web es una parte fundamental de una estrategia online o de un negocio online**. Es necesario medir las acciones que llevamos a cabo en la web de empresa para ver si está dando los frutos esperados. Para ello, no se trata de ver datos con Google Analytics, sino de tener unos objetivos previamente marcados y saber medirlos para comprobar si funcionan o no. Se debe tener una inteligencia empresarial.
+
+
+---
