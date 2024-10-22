@@ -15,7 +15,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 2. Analítica web 2.0
 
-2.1. Método SMART
+  2.1. Método SMART
 
 3. Qué necesitamos para hacer analítica web
 
