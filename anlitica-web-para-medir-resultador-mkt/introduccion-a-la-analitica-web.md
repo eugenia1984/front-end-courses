@@ -74,6 +74,16 @@ Temas relacionados:
 ![image](https://github.com/user-attachments/assets/f6d257b5-f691-428f-bf9c-d6e7800f92b0)
 
 
+Con el uso de estas herramientas, desconocidas por la mayoría de los profesionales que hacen analítica web, se pueden tomar decisiones con un respaldo de datos.
+
+IMPORTANTE: Se debe tener en cuenta el idioma que se utiliza para la búsqueda: Analítica Web o Web Analytics. En la búsqueda de estos términos o palabras clave en las tres bases de datos científicas internacionales, con el término en español aparecen muy pocos artículos de esta materia, en cambio, con el mismo término en inglés aparecen muchos más.
+
+EJEMPLO: Si se realiza la búsqueda en inglés del título Web Analytics, en Scopus hay registrados 0 artículos, en Web os Science 412 en acceso abierto y en Science Direct Research articles 1,431 artículos encontrados.
+
+Además, si queremos usar Google Adwords, el uso del pago por clic, en cuanto a esta terminología se refiere, usaremos la web SEMrush. 
+
+![image](https://github.com/user-attachments/assets/47d4c4ae-0d9a-45e9-9efd-f08f98aa1f26)
+
   
 ---
 
@@ -132,3 +142,8 @@ Por último, para iniciar la realización de una analítica web es fundamental c
 
 ---
 
+## RECURSOS
+
+[https://ticsyformacion.com/2016/07/11/que-es-la-analitica-web-infografia-infographic-marketing/???????](https://ticsyformacion.com/2016/07/11/que-es-la-analitica-web-infografia-infographic-marketing/???????)
+
+[https://www.antevenio.com/blog/2017/09/18-herramientas-de-analitica-web/](https://www.antevenio.com/blog/2017/09/18-herramientas-de-analitica-web/)
