@@ -22,7 +22,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 4. Pasos recomendados al iniciar la realización de una analítica web
 
 
-### U. F. 2. Performance marketing
+### [U. F. 2. Performance marketing](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/performance-marketing.md)
 
 1. Ventajas que nos ofrece el performance marketing
 
