@@ -111,10 +111,23 @@ Con este análisis, podremos ver las fuentes que más tráfico de calidad atraen
 
 IMPORTANTE: Este aspecto es de los más importantes, sobre todo para grandes empresas que suelen realizar una gran inversión en campañas comerciales.
 
+
+No obstante, independientemente del tamaño de la empresa, siempre es aconsejable ver cuáles son las fuentes de tráfico que van a generar mayor movimiento y mejores resultados. Conociendo estos datos, la inversión irá más ajustada a los canales adecuados.
+
+Un dato relevante a destacar es que no todos los canales funcionan de la misma manera para todos los sectores. Según sea tu mercado y cliente, puede ser que resulte más rentable invertir, por ejemplo, en Facebook, pero para otra página web puede que le resulte más rentable invertir en Google Ads. Algunas recomendaciones son:
+
+
+1. Tomar decisiones basadas en datos y no en corazonadas o intuiciones.
+
+2. Se puede hacer lo que se denomina "Agrupación de canales".
+
+3. Descubrir si la web está muy posicionada u optimizada en actualizaciones.
+
 ---
 
 
 ##  Pasos recomendados al iniciar la realización de una analítica web
+
 Empezaremos por Google Analytics, es difícil ponerse manos a la obra, pero cuando se consigue da unos resultados estupendos. Un bloguero alega lo siguiente en cuanto a excusas para no usarlo: “En primer lugar, no es urgente. Si no responde al correo electrónico de ese proveedor, sus productos no se enviarán. Si no paga sus impuestos a tiempo, deberá pagar una multa". Es por eso que Google Analytics se encuentra más en la categoría de sería bueno tener tiempo para muchos empresarios de comercio electrónico.
 
 La segunda razón es que parece bastante complejo, solo sabes que cuando finalmente te sientes a aprenderlo, será difícil. Por eso es más fácil seguir con lo que sabes y te gusta hacer.
@@ -122,6 +135,57 @@ La segunda razón es que parece bastante complejo, solo sabes que cuando finalme
 Actualmente, las grandes compañías están haciendo grandes inversiones en publicidad online mediante atractivas campañas y realizando muchos esfuerzos para generar contenido de calidad en las plataformas sociales. Por ello, es necesario saber qué contenidos y diseño prefiere nuestro público objetivo, qué sitios webs tienen mayor número de tráfico de nuestros clientes potenciales, conocer su comportamiento, qué contenidos de nuestro blog gustan más, qué páginas de mi sitio web son las más populares, cuáles son los enlaces externos, necesito instarla en los dispositivos móviles, funciona bien, qué tácticas de marketing son las que realmente me generan beneficios y el motivo de cuáles no….
 
 IMPORTANTE: La analítica web surge por la necesidad de medir el retorno que el marketing o la publicidad hacen en la web, entre otras funciones, como optimizar el número de seguidores, conseguir tráfico de calidad hacia la web, tomar decisiones basadas en datos y no en corazonadas o intuiciones. Se puede hacer lo que se denomina Agrupación de canales o descubrir si la web está muy posicionada u optimizada en actualizaciones.
+
+
+### Vamos a estudiar algunas de las herramientas más conocidas. 
+
+#### A. Google Analytics
+
+Como ya hemos mencionado anteriormente, es una herramienta de Google y ofrece información en una sola página de las visitas de nuestros usuarios a cada página de la URL. Ofrece información agrupada del tráfico como la audiencia, comportamiento, adquisición y conversiones que se realizan en la web.
+
+Para el ecommerce conocer la conversión (ingresos menos los beneficios, aunque es un tanto por ciento, como se verá más adelante) es fundamental. También, se puede filtrar por segmento de audiencia y conocer su rendimiento, número de visitas a pestañas de la URL, las sesiones por fuente de tráfico, contenidos visitados y duración de las sesiones.
+
+ANOTACION: Un manager o analista web antes de abrir Google Analytics piensa en lo que quiere ver, “Antes de abrir su software de análisis web preferido, se han tomado el tiempo para pensar en lo que quieren saber”.
+
+![image](https://github.com/user-attachments/assets/c013632f-561b-4b07-95ae-1b953b2033fa)
+
+Lo primero que se necesita es una cuenta de Google Analytics,  “Si tiene una cuenta principal de Google que usa para otros servicios como Gmail, Google Drive, Google Calendar, Google+ o YouTube, entonces debe configurar su Google Analytics usando esa cuenta de Google", o de lo contrario necesitará crear una cuenta nueva. Esta debería ser una cuenta de Google que planea mantener para siempre y a la que solo tu tengas acceso. Siempre podemos otorgar acceso a Google Analytics a otras personas en el futuro, pero no deseamos que otra persona tenga control total sobre esta.
+
+IMPORTANTE: No permitas que nadie (diseñador web, desarrollador web, proveedor de alojamiento web, persona de SEO...) cree la cuenta de Google Analytics de su sitio web bajo su propia cuenta de Google para que pueda "administrarla" por ti. Si tu y esta persona se separan, se llevarán sus datos de Google Analytics con ellos y tendrá que comenzar de nuevo.
+ 
+Después de registrarse, debe de tener cuenta añadir en el formulario los datos de la empresa o blog.
+
+#### B. Clicktale
+
+Se trata de una herramienta para conocer el landing page, página de destino utilizada en mercadotecnia y a la que se llega después de haber pulsado en algún enlace, botón o banner que se ha creado para una determinada campaña. Incluye el comportamiento del visitante y se puede ver la técnica del embudo hasta la compra del producto o la finalidad que se haya fijado, también, la analítica de formularios y vínculos averiguando cuáles son las preguntas que más tiempo tardan en contestar y si dejan alguna pregunta en blanco. En definitiva, se usan para ver el comportamiento del usuario en un formulario, cómo este ha respondido a dicho elemento.
+
+![image](https://github.com/user-attachments/assets/9dc4aff8-e484-4775-bcfa-f4259e13cc50)
+
+#### C. 4Q de iPerceptions
+
+Es una herramienta de encuestas que permiten ver los comentarios de los usuarios y evaluar la experiencia online.
+
+
+![image](https://github.com/user-attachments/assets/a17d9abe-44d5-4307-8097-e4bb54ecbcce)
+
+#### D. Compete
+
+Se utiliza para analizar a la competencia. Es una herramienta que permite ver cómo atraen otras webs sus usuarios a sus páginas de empresas online o blogs, incluso se puede saber las palabras claves que llevan a esos usuarios a esas páginas webs. Se puede ver las analíticas de los competidores.
+
+ANOTACION: Ya no está en uso, en su home page se despide desde el año 2016.
+
+#### E. Improvely
+
+Es una herramienta que permite rastrear los clics y ventas de los anuncios en Google Adwords, como pueden ser la publicidad de Facebook, los banners colocados en nuestra web o en otras webs, las campañas de mailing.
+
+Nos permite ver los anuncios que mejor funcionan y cuáles tienen un alto coste y bajo resultado.
+
+### LAnalitica web
+
+La analítica web es necesaria en cualquier página o empresa o persona que se mueva por el mundo digital, para conocer con medidas y valoraciones cómo va funcionando y qué aspectos mejorar.
+
+
+En el siguiente enlace encontrarás un artículo de interés sobre 18 herramientas de analítica web: [https://www.antevenio.com/blog/2017/09/18-herramientas-de-analitica-web/](https://www.antevenio.com/blog/2017/09/18-herramientas-de-analitica-web/)
 
 ---
 ---
