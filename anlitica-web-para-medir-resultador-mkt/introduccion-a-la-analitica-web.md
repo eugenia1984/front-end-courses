@@ -88,3 +88,20 @@ L**a analítica web es una parte fundamental de una estrategia online o de un ne
 
 
 ---
+
+## Qué necesitamos para hacer analítica web
+
+Dependiendo de los objetivos que se marquen en la estrategia empresarial, se pueden dar varios casos:
+
+1. Conseguir tráfico de calidad hacia la web.
+
+2. Optimizar los presupuestos de marketing y publicidad.  
+
+Con este análisis, podremos ver las fuentes que más tráfico de calidad atraen a nuestra página web (las que mejor convierten). De esta manera, se podrá aconsejar a la persona responsable de la toma de decisiones en qué canales se debe centrar, logrando así una mejor optimización de sus presupuestos de marketing.
+
+IMPORTANTE: Este aspecto es de los más importantes, sobre todo para grandes empresas que suelen realizar una gran inversión en campañas comerciales.
+
+---
+
+
+
