@@ -114,5 +114,21 @@ Actualmente, las grandes compañías están haciendo grandes inversiones en publ
 IMPORTANTE: La analítica web surge por la necesidad de medir el retorno que el marketing o la publicidad hacen en la web, entre otras funciones, como optimizar el número de seguidores, conseguir tráfico de calidad hacia la web, tomar decisiones basadas en datos y no en corazonadas o intuiciones. Se puede hacer lo que se denomina Agrupación de canales o descubrir si la web está muy posicionada u optimizada en actualizaciones.
 
 ---
+---
 
+## RESUMEN
+
+La analítica web 2.0 consiste en la recogida y el análisis de datos, los cuales han cambiado con el avance en las nuevas tecnologías, por lo que el marketing y la publicidad han tenido que evolucionar.
+
+Otro aspecto que cubre la analítica web es el análisis de tendencias y la competencia, para el cual se puede utilizar la plataforma Google Trends, ya que permite filtrar por países, tiempo a consultar, categorías y búsqueda web. 
+
+Las herramientas de usabilidad en la analítica web 2.0 más empleada es Hotjar, esta ofrece información sobre las interacciones de los usuarios en tu página web. Esta cuenta con numerosos test gratuitos como los mapas de calor, las  grabaciones de usuarios y la creación de Funnels. Con este programa, se consigue mejorar visita a visita la usabilidad de la web. Por otro lado, las pautas de accesibilidad se verifican a través de las pruebas de satisfacción del usuario. 
+
+Para definir correctamente nuestros objetivos está el método SMART (siglas de Specific, Measurable, Attainable, Relevant y Time-bound), y que se traduce en que los objetivos deben ser específicos, medibles, alcanzables, relevantes y medidos en el tiempo,
+
+Por otro lado, para hacer analítica web, una vez marcados los objetivos es aconsejable ver cuáles son las fuentes de tráfico que van a generar mayor movimiento y mejores resultados. A través de herramientas como Google Analytics o SEMrush podemos ver estos datos. Además, es fundamental conocer si esta tarea la va a realizar un Community Manager.
+
+Por último, para iniciar la realización de una analítica web es fundamental contar con una herramienta adecuada. Debemos destacar de entre las herramientas que hay actualmente en el mercado Google Analytics, Clicktale o iPerceptions.
+
+---
 
