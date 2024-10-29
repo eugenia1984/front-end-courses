@@ -582,3 +582,16 @@ Con la interacción de usuario en nuestra web o blog nos permite planear una bue
 El diseño de interacción permite dar un buen resultado en la experiencia del usuario con la web mediante sistemas interactivos. Se puede entender como un buen funcionamiento y sincronización de la tecnología con los conocimientos de navegación de usuario. Con esta interacción se pueden corregir errores y plantear nuevas medidas de comunicación web-usuario. Es una de las características y evolución de la Web 1.0 a la Web 2.0, la facilidad con la que podemos crear contenido y mantener interacciones. Con la Web 1.0 el webmaster se comunicaba, pero no recibía respuesta, era una comunicación unidireccional.
 
 ---
+---
+
+## Ejercicio práctico. Reputación online
+
+DURACION: 20 MINUTOS
+
+Este ejercicio tiene como finalidad conocer nuestra reputación online, bien la personal o bien la profesional. 
+
+Se trata de hacer un resumen con tu imagen, marca o imagen digital y ver en qué aspectos se puede mejorar siguiendo lo aprendido en analítica web. Además, deberás fijar unos objetivos que sean medibles con los indicadores KPIs.
+
+Para responder y/o entregar el ejercicio debes dirigirte a la ZONA DE ENTREGA DE ACTIVIDADES DE APRENDIZAJE habilitada para ello en el panel principal del curso.
+
+---
