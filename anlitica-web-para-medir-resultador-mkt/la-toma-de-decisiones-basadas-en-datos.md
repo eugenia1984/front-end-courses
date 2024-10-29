@@ -199,3 +199,65 @@ Dentro del trabajo de mejorar la página web de empresa, se pueden realizar las 
 ¿Cómo se consigue esto? Por ejemplo, publicando artículos de invitados en otro blogs, dándonos de alta en directorios temáticos relevantes, creando contenido de interés que se comparta en Redes Sociales y sitios de terceros, publicando noticias de interés y, en definitiva, siendo referentes en el medio online en nuestra temática o sector… Estas señales son factores externos, dado que no implican la realización de cambios técnicos en nuestra web.
 
 ---
+
+##  4.1. Guía de optimización en buscadores (SEO)
+
+VOCABULARIO: 
+
+**Rastrear**: proceso de búsqueda de páginas web nuevas o actualizadas. Google realiza un rastreo de páginas web nuevas, y una vez que las ha encontrado, las indexa (si procede).
+
+---
+
+“El primer paso para conseguir que tu sitio web se muestre en Google es asegurarte de que Google pueda encontrarlo. La mejor forma de hacerlo es mediante un sitemap, que es un archivo que se encuentra en tu sitio web y que informa a los buscadores sobre las páginas nuevas o los cambios de tu sitio web”.
+
+Además, realiza este rastreo si nuestra web aparece mediante enlaces externos en otras webs. Los sitemaps son archivos que proporcionan información sobre la página, los vídeos, imágenes (donde registra los derechos de autor, cuándo ha sido modificada o la fecha) y otros archivos de tu sitio web. Los buscadores como Google rastrean las páginas a través de estos archivos.
+
+---
+
+IMPORTANTE:
+
+Un sitemap puede ayudar a mejorar la posición de una página web mediante el posicionamiento orgánico.
+
+---
+
+Para ello, si queremos **mejorar el rastreo del sitemap** debemos cumplir con las siguientes características:
+
+1. Es muy grande. En este caso, es más probable que los rastreadores web de Google se olviden de rastrear algunas páginas nuevas o actualizadas recientemente.
+
+2. Tiene un gran archivo de páginas de contenido que están aisladas o no están bien enlazadas entre sí. Si las páginas de tu sitio web no hacen referencia las unas a las otras de forma natural, puedes incluirlas en un sitemap para asegurarte de que no pasemos por alto alguno de ellas.
+
+3. Es nuevo y hay pocos enlaces externos que dirigen a él. El robot de Google y otros rastreadores web siguen enlaces de una página a otra para rastrear la web. En consecuencia, es posible que no detecte tus páginas si no hay enlaces a ellas en otros sitios web.
+
+4. Utiliza contenido de rich media, se muestra en Google Noticias o usa otras anotaciones compatibles con sitemaps. Podemos tener en cuenta información adicional de los sitemaps en la búsqueda, si es pertinente.
+
+
+TRUCO:
+
+Cuando Google rastrea una página web la ve exactamente igual que los usuarios. Para ver en qué estado se encuentra la indexación de nuestra web, se puede utilizar Google Search Console en el enlace de URL Inspection.
+
+
+---
+
+## 5 - LA PLANIFICACION DE MEDIOS
+
+La planificación de medios pertenece al área de la publicidad y se realiza después de hacer un Briel publicitario (es un proceso que trata de incluirnos en los medios de comunicación con una campaña publicitaria) entendiendo este como: una herramienta que facilita una síntesis de los medios existentes y descubrir el que más nos interesa para nuestra campaña. Se parte de la idea de con qué medios de comunicación vas a comunicarte con tu audiencia.
+
+Después de realizar el Briel publicitario corresponde al manager o media planner facilitar a sus clientes la potencialidad de dicha campaña publicitaria. Es lo que se entiende como encuadrar a nuestros clientes. En este encuadre se verá en los medios de comunicación que se seleccionen el número de audiencia al que se llega, elegir el canal (canales y/o soportes publicitarios) que más se adapte a mi campaña publicitaria, conocer también la frecuencia de aparición en ese medio y el coste en función de cada medio publicitario elegido.
+
+La siguiente etapa es la estrategia de medios donde según los objetivos fijados y partiendo de la etapa del encuadre y sus resultados deseados, se estudia la fecha de lanzamiento, el calendario y número de impacto previsto. Una vez estudiado el medio o canal donde se quiere publicitar, costes y número de audiencia prevista y deseable que se alcanzaría, se pasa al plan de medios (se entiende por saber el objetivo a desarrollar, bien conseguir más seguidores, dar a conocer tu marca, fidelizar clientes, vender más o promocionar un producto o servicio y/o posicionar tu marca). Aquí se selecciona el medio que se va a utilizar, el presupuesto final asignado y la duración de la campaña en curso.
+
+Hasta ahora, hemos visto que lo que se debe tener claro es el público objetivo al que dirigirte, el presupuesto con el que cuentas, los objetivos de la campaña y la duración, el tiempo de la campaña publicitaria.
+
+Para ello, se pueden elegir los siguientes medios de comunicación:
+
+- MEDIOS TRADICIONALES:  Televisión, radio, teatro, cine, vallas, avisos publicitarios.
+ 
+- MEDIOS DIGITALES: Redes Sociales, el sitio web, SEM, mailing, publicidad online.
+
+Una vez conozcamos la audiencia, tiempo de la campaña y presupuesto que nos piden, debemos fijarnos en la selección, periodicidad y el formato elegido. Una vez finalizado el plan de medios y diseñada la campaña publicitaria, en su transcurso, se hace seguimiento de la misma por si hubiera que mejorarla o modificarla. Hay que establecer objetivos marcados que puedan ser medidos y establecer variables por cada uno de los objetivos.
+
+IMPORTANTE:
+
+Cada medio de comunicación tiene un target o una audiencia que has preguntado al canal previamente, no lo desaproveches. Cada campaña que se hace es una nueva manera de acercarte a tu público y usuario.
+
+---
