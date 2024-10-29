@@ -261,3 +261,324 @@ IMPORTANTE:
 Cada medio de comunicación tiene un target o una audiencia que has preguntado al canal previamente, no lo desaproveches. Cada campaña que se hace es una nueva manera de acercarte a tu público y usuario.
 
 ---
+
+## 6 - ANALITICA Y LOS PROGRAMAS DE AFILIACION
+
+
+“El marketing de afiliados describe cualquier plan de reparto de ingresos en el que un programa de marketing automatizado en línea, permite a los bloggers y propietarios de sitios web, colocar anuncios publicitarios de un anunciante, botones u otros medios publicitarios en tu propio sitio web. Los webmasters recibirán una tarifa de referencia o de comisión por conversiones cuando un cliente haya hecho clic en el enlace de afiliado y realice la acción deseada: como realizar una compra u optar por descargas o boletines informativos en el sitio del anunciante. Los anunciantes invierten en programas de afiliación para generación de leads y, por supuesto, ventas”. Fuente: https://neoattack.com/programas-de-afiliados/ 
+
+Sobre todo, según los expertos, es bastante utilizado en ocio y viajes y en determinados e-commerce. Su analítica web permite una gran facilidad de medición. Para ello, intervienen anunciantes, soportes y plataformas. La manera de utilizar este tipo de marketing depende de los objetivos que nos marquemos con cada producto o servicio.
+
+En la siguiente tabla, podemos ver una clasificación de los objetivos y el programa de afiliación que podemos utilizar.
+
+![image](https://github.com/user-attachments/assets/bc8b427d-54da-416f-b354-d9413da705c4)
+
+---
+
+## 7 - WEB 2.0, LA ANALITICA DEBE IR MAS ALLA DE LA WEB
+
+La relación que mantenemos a día de hoy con el mundo digital ha permitido que se hayan cambiado mucho las cosas y la forma de relacionarlos con los aparatos, ya sean desde un diseño digital de casa, el móvil y su consumo con aumento de ventas e interacciones, la consulta digital de información como leer el periódico y sobre todo, en el consumo de videos a través de YouTube.
+
+En su evolución, en la Web 1.0 la principal diferencia es que era unidireccional, no había forma de interactuar con el webmaster. Se enviaba o se “colgaba” un contenido y no se podía efectuar reacción. Eran las conocidas páginas con fondo gris.
+
+Con el transcurso del tiempo, se ha incorporado la banda ancha y la mejora de las tecnologías, que incluso, en el mundo académico la llaman nuevas tecnologías, porque siempre se está innovando y apareciendo funcionalidades nuevas. Esto ha permitido que el modelo de creación y distribución de contenidos cambie. En esta nueva Web 2.0 todos somos capaces de generar contenido, de compartir un video y de mantener contacto con nuestros allegados a través de las tecnologías y la Web 2.0. No es solo consumir, sino también crear y compartir contenidos.
+
+---
+
+## 8 - ANALISIS DEL BUZZ MARKETING
+
+VOCABULARIO:
+
+
+**Buzz marketing** es una estrategia empresarial de marketing que consiste en hacer un contenido viral con un lenguaje vulgar al que llamamos boca a boca. Es decir, que a través de las Redes Sociales se comparte contenido entre amig@s para promocionar y promover una campaña publicitaria o un producto o un servicio.
+
+Para ello, se realiza lo siguiente:
+
+
+1. Las marcas buscan personas que prueben el producto o servicio para que luego, compartan su experiencia con el resto de sus allegados. De esta forma, lo recomiendan entre su círculo y personas de las Redes Sociales más usadas (los seguidores de Facebook, de Twitter, los grupos o artículos compartidos de LinekdIn, entre otras).
+Un ejemplo de ello son los influencers que recomiendan un determinado producto o servicio para que, según su reputación, a los demás usuarios les guste y lo compren, e incluso llegan a hacer una cadena de recomendaciones. También, las empresas en su home suelen poner testimonios de famosos, ya sean de personajes públicos o científicos que avalan con su testimonio la experiencia de probar un producto o servicio. Otra forma de hacerlo, es dejando muestra del producto para que lo lleves a casa y lo pruebes. Suele ser en cosmética, en las editoriales, en perfumería... de esta forma, con una muestra pequeña lo pruebas y si te gusta compras el producto. Es menos común en los servicios.
+
+2. Otra forma de realizarlo, es a través de un video para la campaña de buzz marketing. De esta forma, si es un video impactante por algún motivo, ya sea por su anécdota o moraleja, por ser cómico y divertido o incluso, los videos polémicos se hacen virales en las Redes Sociales. En la red social Twitter, va a acompañado de un hashtag para mantener la conversación dentro de un hilo y una cadena sucesiva de tweets.
+
+La idea del buzz marketing es hacer un video o campaña de producto o servicio trending topic durante una temporada.
+
+Las páginas web de empresas suelen buscar que se genere conversación sobre sus materiales y su nombre, también que se posicione un producto. En marketing está el ciclo de vida de un producto, que puede pasar de cero a estrella en un determinado tiempo. Es el ciclo de vida de cualquier producto hasta que cae y llega a desaparecer o mantenerse, pero sin inversión. Se les dedica tiempo a los servicios o productos que la empresa con su marca promociona, a los nuevos y a conseguir ventas. Otra intención de la empresa online, como se ha visto anteriormente, es aumentar el tráfico, puede ser uno de los objetivos fijados por un producto o servicio en las Redes Sociales.
+
+En las Redes Sociales las campañas son medibles, a diferencia de la publicidad en televisión. Se puede analizar el impacto y conocer cuántas personas han sido alcanzadas y su comportamiento (más me gustas, han hecho comentarios, conocer los perfiles de los usuarios por si hay algún influencer...). Es la hora de analizar y finalizar con los resultados de la estrategia viral, ¿se han conseguido los objetivos?
+
+IMPORTANTE:
+
+En un buzz marketing se realizan contenidos de calidad, crear expectación antes de la campaña, como por ejemplo en las editoriales o las películas con un pequeño adelanto del estreno y, sobre todo, cumplir con las expectativas. Asegurarnos que el producto o servicio va a estar a la altura de lo que se anuncia.
+
+---
+
+
+## 9 - REPUTACION ON-LINE
+
+
+Tu marca o imagen digital se ve reflejada en la que dejas en los demás, con cada acción o comunicación que llevas a cabo tanto on-line como off-line.
+
+---
+
+VOCABULARIO:
+
+"La identidad digital, por tanto, puede ser definida como el conjunto de la información sobre un individuo o una organización expuesta en Internet (datos personales, imágenes, registros, noticias, comentarios...) que conforma una descripción de dicha persona en el plano digital” - INTECO (Instituto Nacional de Tecnologías de la Comunicación).
+
+---
+
+Esta identidad contiene una serie de características entre las que se encuentra la subjetividad, es esencialmente social, dinámica, contextual y además, produce consecuencias, entre otros. Por ello, advierten que no es opcional, sino un acto de responsabilidad. Según INTECO “solo un 8,6% reconoce que su perfil está accesible a cualquier usuario de la red social, lo que puede constituir una práctica poco prudente”, siendo más de la mitad de los usuarios de Redes Sociales los que restringen la visibilidad de su información exclusivamente a su círculo de amigos.
+
+---
+
+ANOTACION:
+
+Nuestra imagen off-line se corresponde con nuestra imagen on-line, de este modo puede representar una copia fiel o representación de nuestra vida real.
+
+---
+
+Las características de la identidad digital se pueden dividir en las siguientes:
+
+1. Fragmentación (nos dirigimos a distintos públicos),
+
+2. Contenido.
+
+3. Cualidades (profesional, amigos, familia).
+
+---
+
+También nos podemos encontrarnos con ciertos **riesgos en la red**, como la suplantación de la imagen, identidad de una persona, amenazas contra la privacidad, el etiquetado de imágenes, el sexting, el uso de los formularios de cookies y/o no respetar los derechos de propiedad intelectual.
+
+Para ello, la Constitución Española reconoce los siguientes **derechos del ciudadano**:
+
+1. Derecho al honor, a la intimidad personal, a la imagen personal.
+
+2. El derecho a la libertad de expresión.
+
+3. Derecho a la protección de datos.
+
+4. El derecho al olvido, siendo este “la facultad que se atribuye al individuo de obtener la eliminación de una determinada información, particularmente en el contexto de Internet” (INTECO 2012:32).
+
+LEGISLACION:
+
+Actualmente, en el desarrollo del derecho europeo y español, después de la sentencia de Google del Tribunal de Justicia de la Unión Europea de 13 de mayo de 2014, ha supuesto un hito a nivel mundial, el derecho al olvido, también llamado derecho a la autodeterminación informativa, acogido por la jurisprudencia del Tribunal Europeo de Derechos Humanos, por los tribunales españoles y por la nueva normativa europea y española sobre protección de datos. Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de los derechos digitales, que nació como respuesta jurídica ante un desafío tecnológico. Después de esta sentencia, “los afectados tienen el derecho a que determinada información relativa a su persona, cuya publicación puede ser inicialmente legítima, ya no esté vinculada a su nombre por una lista de resultados obtenida tras una búsqueda efectuada a partir de su nombre” (Guichot, E. 2019).
+
+
+---
+
+La protección de datos se asigna a un **Delegado de protección de datos en la empresa** para velar por la aplicación de la Ley y el respeto de los derechos de acceso. Esto está regido por el Reglamento 2016/679/ (UE) y de 27 de abril de 2016 (Reglamento general de protección de datos o RGPD). Con ello, se puede hacer rectificación de datos, oposición, supresión, limitación y portabilidad de los datos.
+
+**¿Cuál es la huella digital que dejas en la red?** La vida online influye en la huella digital. Se trata de la visión que tenemos de nosotros en forma de rastro que influye en nuestra identidad digital (acciones en la red), y que se compone de nuestra visión y de una visión social que está formada por terceros. De esta forma, se da una difusión de nuestra identidad digital.
+
+
+---
+
+Las Redes Sociales más utilizadas son las que mostramos a continuación.
+
+## A - FACEBOOK
+
+Tiene el muro con notificaciones y comentarios de los amigos que quieras después de aceptar su solicitud. Puedes comentar, compartir o dar a me gusta. Se trata de una red exponencial, cuando realizas alguna acción, los amigos de tus amigos también pueden ver la foto o texto que hayas escrito o comentario.
+
+## B - TWITTER
+
+Después de iniciar sesión con una cuenta de correo electrónico ya podemos entrar al perfil creado.
+
+## C - LINKEDIN
+
+Al igual que las anteriores, te puedes crear un perfil a través de un correo electrónico. Su interfaz es parecida a la de Facebook.
+
+
+Estas son las tres Redes Sociales más utilizadas para ámbito profesional, familiar o amigos. También está Instagram, otra red social muy famosa y utilizada.
+
+En ciencia, los académicos tienen sus propias redes de comunicación específicas para ellos, como **Google Scholar** y su impacto en la sociedad. Se puede medir con una plataforma como por ejemplo, Almetrics. Se está desarrollando este tipo de estudios en el ámbito científico y se dice que a mayor número de seguidores en las Redes Sociales mayor número de citas en el marco académico, útil a la hora de solicitar ayudas o subvenciones o calcular el factor de impacto de una revista o la producción académica de un científico.
+
+![image](https://github.com/user-attachments/assets/9f64a1b1-a80e-4b08-8897-0019cdd3fb62)
+
+---
+
+Para conocer la imagen digital de una persona o de nosotros mismos, es suficiente con escribir nuestro nombre en Google y aparecerán todas las páginas o URL en las que estamos registrados o nos han nombrado.
+
+Para ello, se abre Google y en el recuadro de búsqueda se escribe el nombre nuestro o de la persona a buscar. En este caso, vamos a usar de ejemplo a la autora de este curso.
+
+---
+
+VOCABULARIO:
+
+**Imagen digital**: el conjunto de la información sobre un individuo o una organización expuesta en Internet (datos personales, imágenes, registros, noticias, comentarios...) que conforma una descripción de dicha persona en el plano.
+
+**Huella digital**: se trata de la visión que tenemos de nosotros en forma de rastro y que influye en nuestra identidad digital (acciones en la red). Se compone de nuestra visión y de una visión social que está formada por terceros. De esta forma, se da una difusión de nuestra identidad digital.
+
+---
+
+En las revistas académicas es importante la imagen digital, por ejemplo, del profesorado universitario. Hay que destacar que en la disciplina de la Cienciometría se está dando desde hace una década, una nueva métrica de citas. Se trata de Almetric (que se engloba dentro de la Webmetría y la Cienciometría). Con esta metodología se mide el impacto de un artículo científico o el nombre de un autor en las Redes Sociales. “Los artículos más citados se pueden predecir a partir de los artículos más tuiteados con un 93% de especificidad y un 75% de sensibilidad” (Eysenbach, G.2011:1).
+
+---
+
+ANOTACION:
+
+Los artículos más twiteados en Twitter son más citados después en las redes académicas. Se trata de crear una huella e imagen digital académica.
+
+---
+
+Entre sus objetivos se centra en “explorar la viabilidad de medir el impacto social y la atención pública a los artículos académicos mediante el análisis de los rumores en las Redes Sociales, explorar la dinámica, el contenido y el momento de los tweets en relación con la publicación de un artículo académico, y explorar si estas métricas son lo suficientemente sensibles y específicas como para predecir artículos altamente citados” (Eysenbach, G.2011:1). Este autor en concreto, realizó una investigación con la red social Twitter, pero como hemos visto, se pueden utilizar otras Social Media como Facebook, LinkedIn, Academia.edu, Google Scholar, Researchgate, etc.
+
+![image](https://github.com/user-attachments/assets/bcd0bbf1-8cfa-44f7-8081-d666314256f2)
+
+---
+
+Existe una clasificación de las Redes Sociales dependiendo del uso que se le quiera dar, existen las Redes Sociales horizontales o generalistas y verticales.
+
+En las **redes verticales** el usuario sabe el contenido que se puede encontrar, se trata de un contenido específico. En estas Redes Sociales existe una tendencia hacia la especialización. Se genera contenido de más calidad y aportan más valor que una red genérica u horizontal. La interacción y el debate son más proclives en este tipo de redes, ya que, coincide con los mismos gustos en el contenido.
+
+Como red **social horizontal o generalista** se puede citar a **Facebook, Twitter, Tuenti o Google+**. En este tipo de redes se comparten gustos, aficiones y momentos de nuestra vida a través de fotografías, video o comentarios personales. En Instagram y Twitter se puede hacer uso además, del hashtag. De cara a la venta, se da la posibilidad en las redes horizontales de segmentar por el tipo de público que nos interesa para ofrecer un producto o servicio. En cuanto a la conectividad, se dice que las redes horizontales son más frecuentadas y su uso es mayor. Enfocado a las empresas para la venta de productos, lo ideal es buscar Redes Sociales temáticas.
+
+---
+
+Las Redes Sociales son nuestro escaparate y viviendo en la era digital en la que nos encontramos, es frecuente y común estar en alguna red social. No todas ellas, se dirigen al mismo público ni el mismo propósito, como se ha visto. La tendencia es entrar en una red social horizontal y con el tiempo, registrarse también en una red vertical con un espacio de intercambio común. Por temática pueden ser profesionales, aficiones dirigidas a un público con algún ocio o actividades de tiempo libre común, viajes, otras temáticas.
+
+Según la actividad que expongan se clasifican en microbloggings, juegos, localización, marcadores sociales como Digg, Diigo o Delicius y también, podemos encontrarlas según el contenido que se comparte: fotos como Instagram, videos como YouTube, música, documentos o presentaciones como Slideshare.
+
+IMPORTANTE:
+
+Se debe advertir que en las Redes Sociales horizontales o generalistas se pierde privacidad.
+
+---
+
+## 9.1 - LA REPUTACION DE LAS EMPRESAS
+
+
+VOCABULARIO:
+
+**CEO**: Director de una empresa.
+
+“La reputación de los CEO o Director de las grandes empresas está estrechamente relacionada con la reputación de sus empresas. Estas investigaciones incluyen algunas pautas para incluir capacitación para gerentes en Redes Sociales y herramientas en línea para influencia de reputación. En el caso español, donde las grandes corporaciones no son la mayoría del negocio, sino las PYME, un enfoque de este tipo plantea la pregunta no solo sobre los CEO sino también sobre toda la cadena de mando. Se aplica el principio de que todos los agentes involucrados en un proceso de divulgación contribuyen a esta proyección” (Lopez-Lopez, D., Bou Bauza, G. y Rivera, O. 2014:1).
+
+En una estrategia de internalización, un aspecto de la reputación de la corporación se ha dividido esta responsabilidad en cuatro categorías o puestos de trabajo dentro de la empresa. Veamos la siguiente tabla.
+
+![image](https://github.com/user-attachments/assets/5ad1ce5e-1a37-4769-a79e-a8c26367fa1c)
+
+Estas categorías se llaman **niveles jerárquicos** y “se podría suponer que los niveles más altos, al estar en contacto más cercano con los directores de otras organizaciones, estarían mejor informados sobre la estrategia de red adecuada con respecto a la reputación corporativa en línea”… “Nuestra población de estudio estaba compuesta por empresas en Barcelona cuyas actividades están estrechamente relacionadas con lo digital” (Lopez-Lopez, D., Bou Bauza, G. y Rivera, O. 2014:1).
+
+La **reputación corporativa** es una de las ventajas competitivas de forma estratégica de las empresas. Se trata de una temática en desarrollo, pero los estudios llevados al respecto aseguran que “las mejores prácticas comerciales dictan que una reputación favorable se asocia positivamente con el desempeño financiero futuro. Sin embargo, tener una reputación de empresa excelente no solo es beneficioso para la posición estratégica de una empresa en un mercado económico ajustado, sino que puede contribuir a la ventaja competitiva sostenible de una empresa… Al igual que con cualquier activo estratégico, como la reputación de productos y servicios, el presente estudio de caso proporcionó evidencia de que existe una asociación positiva con el desempeño de la empresa y la gestión adecuada de este activo. Una reputación adecuadamente nutrida y mantenida es valiosa” (Smith Alan D., Rupp William, T. y Montley, D. 2013:1).
+
+Los **activos estratégicos** tienen cuatro características, según estos autores, los cuales generarán ganancias altas. “La destreza estratégica de dicho activo reside en la escasez colectiva causada por la concurrencia de estos cuatro elementos” (Smith Alan D., Rupp William, T. y Montley, D. 2013:2).
+
+---
+
+IMPORTANTE:
+
+La teoría RBV (Teoría de los Recursos y Capacidades) sugiere que se aplique esta estrategia a los activos intangibles para conseguir el beneficio donde es difícil su copia. Es no sustituible, inimitable y valioso. Que no sea imitable viene marcado por cuatro factores: “factores generales de reputación, factores que afectan la reputación con los clientes, factores que afectan la reputación con proveedores y socios y factores que afectan la reputación con los empleados” (Smith Alan D., Rupp William, T. y Montley, D. 2013:148).
+
+---
+
+Estas cuatro características es donde, si la empresa saca un producto nuevo a la venta, es más probable su aceptación porque ya conocen a la empresa y puede ser demostrado a través de certificaciones y la cultura organizacional.
+
+“El lugar para la opinión del público ha cambiado drásticamente en las últimas décadas, experiencia o el conocimiento de los empleados no siendo propiedad de la empresa, la cultura organizacional (las creencias, los valores y las suposiciones de la empresa, así como su relación con las partes interesadas internas y externas; Es un activo extremadamente holístico, lo que significa que cada componente de la cultura juega un papel importante en su formación, y si una pieza cambia, también lo hace la cultura” (Smith Alan D., Rupp William, T. y Montley, D. 2013:132) y la reputación de la empresa ya que Internet, a través de sitios web, Redes Sociales y blogs, se ha convertido en un foro popular para compartir opiniones de usuarios y experiencias con consumidores completos desconocidos. Esta es una variable nueva e indefinida que afecta la reputación de la compañía porque históricamente las malas experiencias se transmitieron de boca en boca (WOM) y, por lo general, solo a personas que el consumidor molesto conocía” (Smith Alan D., Rupp William, T. y Montley, D. 2013:133).
+
+
+---
+
+IMPORTANTE:
+
+La teoría RBV está basada en el conocimiento y lo tratan como el mayor recurso estratégico de la empresa. Se trata de un punto de vista basado en la empresa, ya que esos conocimientos no se pueden imitar. El conocimiento se suele entender como: hecho o información adquiridos por una persona a través de la experiencia o la educación, la comprensión teórica o práctica de un asunto referente a una realidad de universo, conciencia o familiaridad adquirida por la experiencia de un hecho o situación y por último, también es entendido como lo que representa toda certidumbre cognitiva mesurable según la respuesta a ¿Por qué? ¿Cómo? ¿Cuándo? Y ¿dónde?
+
+---
+
+La importancia de las empresas en las Redes Sociales no es solo que "si no estás, no existes", sino que además, hay que saber algo de “rastreo esporádico” (conocer cómo medir lo que se dice en la red).
+
+---
+
+EJEMPLO:
+
+“La presencia de las Redes Sociales es cada vez mayor en nuestro día a día. Por ejemplo Facebook o Twitter, las más conocidas, han resultado ser una auténtica revolución a la hora de comunicarnos con nuestros amigos o conocidos alrededor del mundo, e incluso conocer gente afín a nuestros gustos y aficiones. Sin embargo, para las empresas, las Redes Sociales también han supuesto un modo casi vital para comunicar a sus seguidores las novedades de sus productos, las noticias de la compañía o simplemente interactuar con estos, además de darse a conocer a más gente de una forma prácticamente gratuita. Y es que no solo grandes empresas como Coca Cola, H&M o El Corte Inglés, por citar solo algunos casos conocidos, aglutinan más visitas en sus Redes Sociales que en su página web y sus seguidores utilizan más Facebook para conocer las novedades de la empresa que entradas contabilizan los sites corporativos”. Fuente: https://www.advertis.es/la-importancia-de-la-reputacion-de-las-empresas-en-las-redes-sociales/
+
+---
+
+Las Redes Sociales deben estar siempre en movimiento y para ello, hace falta la figura de un Community Manager o Technical staff, como se ha mencionado anteriormente. Tanto este cargo como los superiores, deben conocer que Redes Sociales son las más apropiadas para su empresa. El rastreo esporádico se puede observar escribiendo el nombre de la empresa en los principales buscadores de la zona y conocer en que páginas aparece y los comentarios que hay al respecto. Si se encontrara algún comentario negativo se le pude responder desde una Comunicación de crisis o incluso, llegar a cuestiones legales.
+
+---
+
+## 9.2 - CREAR UN ALERTA EN GOOGLE 
+
+Es posible que por nuestra profesión o el uso de las Redes Sociales, aparezcamos en algún lugar digital de la era web sin tener conocimiento de ello. También, te pueden citar en algún artículo sin tener conocimiento de ello.
+
+Se puede crear una alerta en Google para que, cuando alguien mencione tu nombre, recibas un email. 
+
+![image](https://github.com/user-attachments/assets/1a1f220e-7f8e-4b61-94a4-2f4a042a983a)
+
+Como se observa en la imagen anterior, en el recuadro de Alertas se puede poner lo que se desea seguir, se da un correo de Gmail dónde recibir la información y crear alerta.
+
+---
+
+## 9.3 - EDUCOMUNICACION
+
+Para dar unas pinceladas al ámbito académico universitario, en un artículo publicado por Ávila-Meléndez, L.R. y Cortés-Montalvo, J.A. (2018) de México, estos dicen “Usualmente permanecemos conectados a través de diversos dispositivos móviles, suponemos estar bien informados de lo que ocurre en nuestro entorno tanto cercano como distante, pero pocas veces nos detenemos a indagar sobre las características y confiabilidad de las fuentes, he aquí la importancia del desarrollo de la competencia mediática como parte de la formación universitaria”. Comentan que los medios digitales están presentes en nuestra comunicación diaria y hacen especial hincapié, con una propuesta educativa de intervención, en la comunicación educativa de los docentes universitarios, con el nombre de educomunicación.
+
+De esta forma, miden según las habilidades en educación universitaria y en comunicación de la Unión Europea, siendo estas las siguientes:
+
+1. La comunicación en la lengua materna.
+
+2. La comunicación en lenguas extranjeras.
+
+3. Competencia en las matemáticas, la ciencia y la tecnología.
+
+4. La competencia digital.
+
+5. Aprender a aprender.
+
+6. Competencias sociales y cívicas.
+
+7. Sentido de la iniciativa y espíritu de empresa.
+
+8. La conciencia y expresión cultural.
+
+Estas ocho competencias consignadas en el proyecto DeSeCo, incluyen de manera integral algunos distintivos de cada una de ellas para el desarrollo de la competencia mediática.
+
+---
+
+Con este estudio, se ha conseguido un diagnóstico de la alfabetización mediática en el ámbito universitario, donde comenta Clarembeaux (2007) que no solo ocurre en los países latinoamericanos, sino que también es necesario una formación en países de Europa. “Tanto en Iberoamérica como en Europa, son incipientes los cursos y actividades académicas programadas para una formación de educación en medios para docentes, lo cual es visto como una debilidad para el desarrollo en este campo” (Ávila-Meléndez, L.R. y Cortés-Montalvo, J.A. 2018:124).
+
+También, se defiende que en esta investigación, no es tanto la complejidad de la mente en la comunicación, como el saber sobre el uso de las herramientas. “Para valorar el nivel de desarrollo de la competencia mediática en docentes, se tomaron como base las dimensiones e indicadores propuestos por Ferrés y Piscitelli (2012), de lenguaje, tecnología, interacción y recepción; producción, ideología y estética” (Ávila-Meléndez, L.R. y Cortés-Montalvo, J.A. 2018:127).
+
+Con ello, se concluye que se ha dado una concienciación y compromiso en el uso de la práctica educativa en sus asignaturas. Asimilan el cambio, el empoderamiento y el aprendizaje continuo para poner en práctica una competencia mediática, entendida esta como “la capacidad de acceso a los medios de comunicación para comprender y evaluar críticamente los contenidos mediáticos y los aspectos diferentes de los medios de comunicación, para crear comunicaciones en una variedad de contextos" (Silver, 2009: 19).
+
+---
+
+ANOTACION:
+
+La Comisión Europea la define como la capacidad de acceder a los medios de comunicación (incluyendo la televisión, el cine, la radio, los medios impresos, Internet y todas las demás tecnologías de comunicación digital), comprender y valorar críticamente diferentes aspectos y contenidos de los mismos y para crear las comunicaciones en una diversidad de contextos.
+
+---
+
+## 10 - USABILIDAD Y DISEÑO DE INTERACCION
+
+Los **diseños de interacción** se pueden medir, es la función de usabilidad de una web de empresa. Cada vez que le das a un me gusta, compartes contenido, realizas la técnica del embudo hasta el final con la adquisición del producto, rellenas un formulario o haces scroll con la barra de desplazamiento, es medible y estás haciendo usabilidad de interacción.
+
+Se trata de una disciplina cuyo origen y finalidad es medir y estudiar las interacciones de los usuarios con nuestra web o blog, bien sea una página web de empresa con un technical staff organizándola o bien, con un webmaster en un blog.
+
+Estas interacciones son medibles y están pensadas bajo unos objetivos asociados al mundo digital y esperamos que los usuarios respondan con sus acciones.
+
+IMPORTANTE:
+
+El diseño de usabilidad de la web, así como su interacción y arquitectura de información y otras disciplinas, nos ayudan a plantear unos objetivos medibles con los indicadores KPIs, a ofrecer una buena experiencia al usuario.
+
+ENLACE:
+
+En el siguiente enlace encontrarás información adicional sobre el diseño de interacción: [https://blog.acantu.com/que-es-diseno-interaccion/](https://blog.acantu.com/que-es-diseno-interaccion/)
+
+
+
+---
+
+## RESUMEN
+
+Un analista web debe estar preparado para todo. Esto quiere decir que tiene que conocer las herramientas de medición existentes y además, estar dispuesto a actualizarse constantemente, ya que salen herramientas nuevas o aplicaciones que nos sirven mejor para los objetivos de venta y conversión de nuestra web. Se trata de un trabajo creativo y dónde no solo es medir sino también, saber interpretar.
+
+De esta forma, la analítica web es entendida como la “medición, procesamiento, análisis y reporte del tráfico de internet para entender y optimizar el uso de un sitio web”. Además, con el uso del SEM, se colocan anuncios en los motores de búsqueda para generar tráfico hacia nuestra web de empresa. Luego, en función de la inversión y los beneficios obtenidos se calcula el ROI o ratio de conversión. Mediante su análisis nos aproximaremos cada vez más al anuncio más adecuando hacia nuestro target o público objetivo.
+
+Con el SEO (posicionamiento orgánico), se actualizan los archivos de nuestra website, con algunos consejos como pueden ser que el texto, archivo, foto o imagen no sean muy grandes, que existan links internos para que estén enlazadas nuestras pestañas o también, que nos citen otras webs, que existan enlaces externos que les direccione a nuestra web. Otra de las características o consejos que ofrece la Guía de optimización de Google es tener información adicional además, del contenido de nuestra web. El robot de Google ve el contenido y archivos de nuestra web como lo ven los usuarios. Por eso, es importante para el SEO tener nuestra página actualizada y de esta forma, posicionarnos bien en los motores de búsqueda, preferiblemente dentro de las cinco primeras páginas de los resultados.
+
+Con la interacción de usuario en nuestra web o blog nos permite planear una buena acción de marketing, con esta disciplina se intenta dar un buen servicio digital al usuario.
+
+El diseño de interacción permite dar un buen resultado en la experiencia del usuario con la web mediante sistemas interactivos. Se puede entender como un buen funcionamiento y sincronización de la tecnología con los conocimientos de navegación de usuario. Con esta interacción se pueden corregir errores y plantear nuevas medidas de comunicación web-usuario. Es una de las características y evolución de la Web 1.0 a la Web 2.0, la facilidad con la que podemos crear contenido y mantener interacciones. Con la Web 1.0 el webmaster se comunicaba, pero no recibía respuesta, era una comunicación unidireccional.
+
+---
