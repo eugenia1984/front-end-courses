@@ -32,7 +32,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 
 
-### U. F. 3. La toma de decisiones basadas en datos
+### [U. F. 3. La toma de decisiones basadas en datos](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/la-toma-de-decisiones-basadas-en-datos.md)
 
 1. Tenemos que dejar de hacer reporting y hacer análisis
 
