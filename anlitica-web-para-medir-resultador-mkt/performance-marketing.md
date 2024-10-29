@@ -1,13 +1,12 @@
 # INTRODUCCION
 
-
 El performance marketing o marketing de resultados es una acción de marketing que como resultado da como fruto, por ejemplo, una venta, una suscripción, un like.
 
 Con las agencias de performance optimization se asegura el resultado de la inversión, cosa que otro tipo de marketing queda en la incertidumbre si no se planea bien en la estrategia de medios. Se trata de una inversión segura, “El factor que determina si una campaña ha ido bien son datos reales, recogidos mediante un sistema de tracking que guarda clics, suscripciones, ventas o conversiones a tiempo real”.
 
 ---
 
-# Objetivos
+# OBJETIVOS
 
 - Conocer el concepto de performance marketing.
 
@@ -15,7 +14,7 @@ Con las agencias de performance optimization se asegura el resultado de la inver
 
 ---
 
-## 1 - Ventajas que nos ofrece el performance marketing
+## 1 - VENTAJAS QUE NOS OFRECE EL PERFORMANCE MARKETING
 
 Con este tipo de marketing, que se suele contratar a las agencias de performance optimization, el resultado del objetivo fijado es asegurado, ya que engloba todas las estrategias del marketing. Hay quien confunde el marketing de resultados con marketing de afiliación, cuando este segundo concepto, en realidad, es una herramienta y técnica de las que disponen los marketers para desarrollar su trabajo en el performance marketing.
 
