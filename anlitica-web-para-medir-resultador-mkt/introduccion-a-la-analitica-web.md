@@ -1,6 +1,6 @@
 # PRESENTACION
 
-## Ficha técnica del curso
+## FICHA TÉCNICA DEL CURSO
 
 El presente curso se compone del contenido y recursos didácticos de la acción formativa “Analítica web para medir resultados de marketing” incluida en FUNDAE con código COMM001PO en la familia profesional de Comercio y Marketing y dentro del Área Profesional de “Marketing y Relaciones públicas”.
 
@@ -8,19 +8,36 @@ La Acción Formativa cuenta con una duración de **30 horas** y su contenido est
 
 ---
 
-## Objetivo general
+## OBJETIVO GENERAL
 
 El presente curso tiene como objetivo general **identificar las herramientas y variables de analítica web para obtener resultados acerca de la información y los comportamientos que aporta el rastro de los usuarios en la web y web 2.0**, y así, **establecer a tiempo, correcciones y decisiones sobre todo lo que influye en el modelo de presencia on-line de una empresa, introduciendo mejoras en las acciones estratégicas del marketing**.
 
 ---
 
-## Mapa conceptual del curso
+## MAPA CONCEPTUAL DEL CURSO
 
 ![image](https://github.com/user-attachments/assets/5511c3db-d3e2-4e69-8e98-1cd1329aff60)
 
 ---
+---
 
-## Introducción
+## UNIDAD 1 - INTRODUCCIÓN A LA ANALÍTICA WEB
+
+
+En esta unidad, veremos cómo analizar los datos de la propia web o cómo usar los datos proporcionados con el análisis de la web, de tus clientes. Esta temática está relacionada y podría ayudar, si se tienen conocimientos de marketing digital. La analítica web o analítica digital es un proceso donde trataremos de mejorar nuestros resultados o prevenir problemas. Ahora, se utiliza la analítica web 2.0. la cual, se puede enfocar desde tres perspectivas:
+
+
+1. Desde el punto de vista funcional se ha incorporado a nuestro entorno web, ya sea a través de contenidos, comunidades o colaboración. “Estos tres conceptos giran en torno al individuo” (Maldonado, S. 2010:157), ya sea compartiendo intereses y valoraciones, con los blogs y microblogs, en la personalización de contenidos o en comunidades y colaboración.
+
+2. En la faceta metodológica, “La Web 2.0 es contemporánea de una nueva forma de entender la interacción del usuario con los contenidos de la web” (Maldonado, S. 2010:158). Aquí estaría el punto de vista de la web desde la usabilidad, como resultar fácil el manejo en la página o la localización rápida de contenido en la web. Esto ha ocasionado sistemas de búsqueda inteligentes o la personalización dinámica del contenido. El hecho del aumento de banda ha conllevado a un alto consumo de videos con la entrada de contenidos multimedia, según la Asociación para la Investigación de Medios de Comunicación el visionado de vídeos se encuentra cerca de un 25 % en el uso que hacen los usuarios de Internet. Lo más demandado es la mensajería instantánea con un 97,2% en abril/mayo 2019.
+
+3. El desafío tecnológico de la Web 2.0 de tal forma, que aplicaciones con un lenguaje complejo se facilita el acceso simplificado. “Los cálculos probabilísticos han facilitado la personalización, indexación e interrelación de masas ingentes de contenidos para su rápida localización o discriminación y muestra”.
+
+En este caso, vamos a ver el programa Hotjar para controlar el tráfico de una página web, la usabilidad de la web. En la medición de la analítica web 2.0 se deben fijar anteriormente unos objetivos a medir. Estos objetivos que se pueden extraer de los KPIs (Key Performance Indicators: indicadores clave de desempeño o rendimiento) o indicadores claves, dan un valor normalmente porcentual de un objetivo. Las grandes empresas suelen utilizar estos indicadores para analizar y ver si los objetivos marcados por marketing están funcionando. De esta forma, se consigue saber que la página web está dando sus mejores resultados.
+
+**CITA**: Según la Wikipedia, estos KPIs se utilizan “en inteligencia empresarial para reflejar el estado actual de un negocio y definir una línea de acción futura”, entendiéndola como “conjunto de estrategias, aplicaciones, medios, productos, tecnologías y arquitectura técnicas, los cuales están enfocados a la administración y creación de conocimiento sobre el medio, a través del análisis de los datos existentes en una organización o empresa”.
+
+---
 
 La **analítica web** va estrechamente ligada a una **estrategia de marketing**, en este caso de marketing digital. Saber **medir los datos** que nos proporciona la web y conocer a nuestros usuarios es fundamental para la **venta de empresa online**. Tanto los datos cuantitativos como cualitativos nos dicen por dónde se mueven nuestros usuarios o clientes, sus gustos, así como sus necesidades, que satisfacen con la interacción a través de nuestra web. Al fijar un **plan de marketing**, y en este caso contar también con la **analítica web**, nos permite conocer mediante herramientas digitales cómo son nuestros clientes potenciales y mejorar día a día la usabilidad de la web, acertar con una campaña de SEM, o mejorar la actualidad de la web con el SEO mediante la observación del funcionamiento de la web de empresa.
 
@@ -34,13 +51,28 @@ La **analítica web 2.0** consiste en la **recogida** y el **análisis de datos*
 
 ---
 
-## Objetivos:
+## VOCABULARIO:
+
+**Tag**: elemento incluido en la web para ser medido. El tagging (etiquetado) es el proceso de etiquetado de los elementos a medir. Es como el uso de las caspetas para guardar archivos que luego, quieres recuperar. Con un tag se incluye con un código en la URL de la página para luego, recuperarlo y medirlo. El Tag Management consiste en agrupar todas las etiquetas que se encuentran en una web en un solo contenedor. Desde que en 2012 Google sacó su gestor de etiquetas, comenzó a popularizarse el término de “Tag Management”.
+
+
+“En la última década, el uso de Internet ha experimentado un crecimiento muy elevado, ampliándose los mercados tradicionales al ámbito virtual. Esta circunstancia se ha traducido en nuevos comportamientos y a unos mercados cada vez más dinámicos e inciertos, caracterizados por un gran volumen de datos que deben ser convertidos rápidamente en información útil para las organizaciones. Es en este punto donde la analítica web ha pasado a desempeñar un importante rol como herramienta útil para reducir la incertidumbre y poder tomar decisiones objetivas basadas en información relevante”.
+
+## ENLACES
+
+En el siguiente enlace encontrarás información adicional sobre qué es la analítica web: [https://ticsyformacion.com/2016/07/11/que-es-la-analitica-web-infografia-infographic-marketing/](https://ticsyformacion.com/2016/07/11/que-es-la-analitica-web-infografia-infographic-marketing/)
+
+---
+
+## OBJETIVOS:
 
 - Conocer los conceptos relacionados con la analítica web.
 
 - Identificar los instrumentos y variables para realizar técnicas de analítica web.
 
 ---
+
+
 
 ## ¿Por qué es necesaria la analítica web?
 
@@ -84,22 +116,66 @@ Además, si queremos usar Google Adwords, el uso del pago por clic, en cuanto a 
 
 ![image](https://github.com/user-attachments/assets/47d4c4ae-0d9a-45e9-9efd-f08f98aa1f26)
 
+
+---
+
+## 2 - Analítica web 2.0 (continuación)
+
+Esto está desarrollado desde hace años por el diseño WWW, llamado Accesibilidad del Contenido Web (WCAG 1.0). En este desarrollo de la aplicación se han utilizados las siguientes normas ISO, como certificado de calidad:
+
+1. ISO 9241-11: Orientación sobre usabilidad.
+
+2. ISO 9241-12: Presentación de información.
+
+3. ISO 9241-13: Guía del usuario.
+
+4. ISO 9241-14: Diálogos de menú.
+
+5. ISO 9241-15: Diálogos de comandos
+
+6. ISO 9241-16: Diálogos de manipulación directa.
+
+7. ISO 9241-16: Diálogos de manipulación directa.
+
+## Evaluación de la accesibilidad
+
+Las pautas de accesibilidad se verifican en el contenido de la Web 1.0. Prueba de satisfacción del usuario, a través de esta prueba el evaluador puede identificar datos sobre la opinión del usuario, sobre la estructura, el contenido, la navegación... de un sitio web que puede ayudarlo en la evaluación final de un sitio.
+
+En los procesos de usabilidad y diseño de una web se necesita herramientas que procesen estas actividades de forma automática y con WebA se ha conseguido que “aumente la confiabilidad del proceso de diseño y la evaluación de la aplicación interfaces y reduce el tiempo de evaluación, ya que no solo facilita la verificación de la usabilidad y accesibilidad del sitio, sino que brinda asistencia en la fase de diseño de la interfaz para obtener un diseño eficaz y eficiente que satisfaga al usuario” (Mena Tobar, L, Latorre Andrés, P.M y Lafuente Lapena, E. 2008:1510).
+
+
   
 ---
 
-## Método SMART
+##  2.1 - MÉTODO SMART
 
 Antes de empezar a mirar y apuntar la cantidad de visitas, pestañas o páginas visitadas, porcentaje de permanencia en la web o porcentaje de rebote… es necesario **tener un plan o estrategia con unos objetivos medibles marcados.** Tenemos que saber qué queremos conseguir con nuestra web.
 
 
 Definimos el **método SMART como** **unas pautas a seguir en analítica web para definir correctamente los objetivos que se están persiguiendo en nuestra Web**.
 
-L**a analítica web es una parte fundamental de una estrategia online o de un negocio online**. Es necesario medir las acciones que llevamos a cabo en la web de empresa para ver si está dando los frutos esperados. Para ello, no se trata de ver datos con Google Analytics, sino de tener unos objetivos previamente marcados y saber medirlos para comprobar si funcionan o no. Se debe tener una inteligencia empresarial.
+**La analítica web es una parte fundamental de una estrategia online o de un negocio online**. Es necesario medir las acciones que llevamos a cabo en la web de empresa para ver si está dando los frutos esperados. Para ello, no se trata de ver datos con Google Analytics, sino de tener unos objetivos previamente marcados y saber medirlos para comprobar si funcionan o no. Se debe tener una inteligencia empresarial.
 
+
+De esta forma, las características de nuestro plan o método SMART son las siguientes:
+
+**S**: Específico (Specific): se deben fijar unos barómetros o cantidades previamente al análisis para luego, analizar y ver si se han conseguido. Ya sean un número de ventas determinados, tantos seguidores u usuarios al blog nuevos, por ejemplo, o la cantidad de correos recibidos a través de la web.
+
+**M**: Medible (Measurable): los elementos cualitativos pueden ser medibles, como la valoración de la calidad de un producto con un sistema de puntuación. Los elementos de métrica cuantitativos de los objetivos se suelen marcar en tantos por ciento conseguido.
+
+**A**: Alcanzable (Attainable): nos gustaría que nuestra web funcionara a las mil maravillas y vender desde el primer día un montón de productos, pero hay que ser realista y marcar o fijar unos objetivos alcanzables.
+
+**R**: Relevante (Relevant): se trata de fijarnos en lo que nos importa. Por ejemplo, si hay venta de productos de poco valor o que ya están desfasados, no son los actuales, no centrarnos en ellos y medir lo que realmente nos importa. Productos de última generación o venta en países que realmente nos interesa.
+
+**T**: Tiempo (Time-bound): hay que marcar un tiempo en que los objetivos que se han marcado se hayan podido alcanzar. Un mes, un año… un tiempo determinado.
+
+En una inteligencia empresarial se fijan unos objetivos que luego, empleando el método SMART se puedan medir.
 
 ---
+---
 
-## Qué necesitamos para hacer analítica web
+
+## 3 - QUÉ NECESITAMOS PARA HACER ANALÑITICA WEB
 
 Dependiendo de los objetivos que se marquen en la estrategia empresarial, se pueden dar varios casos:
 
@@ -123,10 +199,28 @@ Un dato relevante a destacar es que no todos los canales funcionan de la misma m
 
 3. Descubrir si la web está muy posicionada u optimizada en actualizaciones.
 
+
+### VOCABULARIO:
+
+Agrupación de canales: agrupar los canales mediante los que recibimos tráfico en una sola herramienta, como por ejemplo, Google Search Console y mediante las estadísticas averiguar por qué canal llegan los usuarios a la web. Averiguar cómo está posicionada la página en los motores de búsqueda.
+
+
+Solo con herramientas de medición, cada vez más fáciles de utilizar, no es suficiente. Google Analytics, herramienta gratuita de Google está a nuestra disposición para utilizarla insertando un código en nuestro head de la página web y con esto, se pueden hacer medidas. Pero no solo está Google Analytics, tenemos también SEMrush (que ya estudiamos anteriormente) si queremos ver el precio por clic (PPC o CPC) de las palabras claves, o alternativas a nuestras palabras claves para que el usuario encuentre la web, el SEM o SEO con el posicionamiento orgánico o de pago.
+
+**TRUCO**: Algo bastante fácil de utilizar con las Alertas de Google es la reputación de marca de una empresa o el prestigio de una persona, ya que esta herramienta nos avisa cuando somos nombrados en algún momento de la navegación de otros usuarios.
+
+---
+
+Con la analítica web, debido al aumento de datos que circulan por las wwww, se mide y analiza la optimización de la web. No es solo medir y obtener unos datos, sino que hay que saber interpretarlos para mejorar de forma continua el funcionamiento de la web. Para ello, es necesario fijar unos objetivos, para saber qué quieres alcanzar con ella en un plazo determinado, con la ayuda del método SMART, y fijar así también unos indicadores KPIs.
+
+Se necesita saber si se va a encargar un analista web externo a la empresa, el Community Manager o Technical Staff o, por ejemplo, el equipo directivo que tiene una visión mucho más amplia sobre lo que se quiere conseguir con la web (mayor visibilidad, aumentar los comentarios en blogs, mayor tiempo en la web, conseguir seguidores, tener enlaces externos a nuestra web, que una fotografía atraiga público, ventas…).
+
+Tras esto, se deben hacer los cambios oportunos una vez tengamos los KPIs estudiados, se debe ser flexible ante los cambios y abrir nuevas expectativas en el manejo de la web. Además, otra de las características de la analítica web es que el analista debe ser creativo y proactivo.
+
 ---
 
 
-##  Pasos recomendados al iniciar la realización de una analítica web
+## 4 - PASOS RECMENDADOS AL INICIAR LA REALIZACION DE UNA ANALITICA WEB
 
 Empezaremos por Google Analytics, es difícil ponerse manos a la obra, pero cuando se consigue da unos resultados estupendos. Un bloguero alega lo siguiente en cuanto a excusas para no usarlo: “En primer lugar, no es urgente. Si no responde al correo electrónico de ese proveedor, sus productos no se enviarán. Si no paga sus impuestos a tiempo, deberá pagar una multa". Es por eso que Google Analytics se encuentra más en la categoría de sería bueno tener tiempo para muchos empresarios de comercio electrónico.
 
@@ -134,7 +228,7 @@ La segunda razón es que parece bastante complejo, solo sabes que cuando finalme
 
 Actualmente, las grandes compañías están haciendo grandes inversiones en publicidad online mediante atractivas campañas y realizando muchos esfuerzos para generar contenido de calidad en las plataformas sociales. Por ello, es necesario saber qué contenidos y diseño prefiere nuestro público objetivo, qué sitios webs tienen mayor número de tráfico de nuestros clientes potenciales, conocer su comportamiento, qué contenidos de nuestro blog gustan más, qué páginas de mi sitio web son las más populares, cuáles son los enlaces externos, necesito instarla en los dispositivos móviles, funciona bien, qué tácticas de marketing son las que realmente me generan beneficios y el motivo de cuáles no….
 
-IMPORTANTE: La analítica web surge por la necesidad de medir el retorno que el marketing o la publicidad hacen en la web, entre otras funciones, como optimizar el número de seguidores, conseguir tráfico de calidad hacia la web, tomar decisiones basadas en datos y no en corazonadas o intuiciones. Se puede hacer lo que se denomina Agrupación de canales o descubrir si la web está muy posicionada u optimizada en actualizaciones.
+**IMPORTANTE**: La analítica web surge por la necesidad de medir el retorno que el marketing o la publicidad hacen en la web, entre otras funciones, como optimizar el número de seguidores, conseguir tráfico de calidad hacia la web, tomar decisiones basadas en datos y no en corazonadas o intuiciones. Se puede hacer lo que se denomina Agrupación de canales o descubrir si la web está muy posicionada u optimizada en actualizaciones.
 
 
 ### Vamos a estudiar algunas de las herramientas más conocidas. 
