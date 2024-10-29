@@ -43,7 +43,7 @@ En el caso del CPC, podemos saber quién ha aterrizado en nuestro site después 
 ---
 
 
-## 2 - La evolución del marketing on-line: branding vs. performance
+## 2 - LA EVOLUCION DEL MARKETING ON-LINE: BRANDING VS PERFORMANCE
 
 La diferencia entre el performance y el branding es la siguiente: con el marketing de performance los resultados están orientados hacia un público que no va a fallar, los resultados están garantizados y con el branding se trata más bien de valorar o posicionar la marca de empresa en el público al que nos dirigimos.
 
@@ -53,7 +53,7 @@ A la hora de preguntarnos en cuál invertir la respuesta es "depende". La venta 
 
 ---
 
-## 3 - Evolución hacia el marketing de afiliados
+## 3 - EVOLUCIÓN HACIA EL MARKETING DE AFILIADOS
 
 Con la evolución de Internet, nuevos formatos de marketing aparecen todos los días, siempre con el objetivo de ampliar las formas y canales que consigan llamar la atención del consumidor. Los consumidores están cada vez más atentos y exigentes, además de saber muy bien el tipo de publicidad que les interesa a la hora de comprar online.
 
