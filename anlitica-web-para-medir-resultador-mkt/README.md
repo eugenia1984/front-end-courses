@@ -62,7 +62,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 10. Usabilidad y diseño de interacción en la web
 
-### U. F. 4. A/B Multivariate Testing
+### [U. F. 4. A/B Multivariate Testing](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/a-b.md)
 
 1. Las landing pages
 
