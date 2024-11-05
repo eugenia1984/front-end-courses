@@ -76,7 +76,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 2. Google Optimize
 
-### U. F. 6. Medición y optimización de los procesos de nuestra web
+### [U. F. 6. Medición y optimización de los procesos de nuestra web](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/medicion.md)
 
 1. Métricas en Internet
 
