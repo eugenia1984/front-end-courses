@@ -70,7 +70,7 @@ dentificar las herramientas y variables de analítica web para obtener resultado
 
 3. Cómo funciona el A/B testing
 
-### U. F. 5. Google Analytics y otras herramientas
+### [U. F. 5. Google Analytics y otras herramientas](https://github.com/eugenia1984/front-end-courses/blob/main/anlitica-web-para-medir-resultador-mkt/google-analitics.md)
 
 1. Google Analytics
 
